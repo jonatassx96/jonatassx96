@@ -16,9 +16,11 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 <hr>
 
 💬 Quer me conhecer?
-<div>
+ 
+<br>
+ 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jonatas.xavier.96/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jonatas-xavier/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jonatas.sx96@gmail.com)
- </div>
+
 
 ![Snake animation](https://github.com/jonatassx96/jonatassx96/blob/output/github-contribution-grid-snake.svg)
