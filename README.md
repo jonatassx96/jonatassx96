@@ -11,8 +11,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </div>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,tailwind,docker,nodejs,firebase,mongodb
-)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 <hr>
 
