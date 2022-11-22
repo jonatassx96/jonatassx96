@@ -1,17 +1,51 @@
-# Olá, eu sou o Jônatas Xavier!
+<h1 align='center'>
+  Olá, sou o Jônatas Xavier!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
 
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatassx96&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatassx96&layout=compact&theme=highcontrast)
+### 🌻 Sobre mim:
 
-<div style="display: inline_block">
+<p>
+  <em>
+    Tenho 26 anos, sou de Brasília e atualmente sou estudante em desenvolvimento web e ciência da computação.
+  </em>
+</p>
 
+- 🌱 Atualmente estou aprendendo React.js, Node.js e TypeScript.
+- 🚀 Estudante da Faculdade Descomplica, Udemy e programador Br.
+- 📫 Meu email: jonatas.sx96@gmail.com
 
+### 📊 Metas 2023:
+
+- 📂 Expandir meu portfólio []
+
+- 📈 Conseguir a primeira vaga como dev []
+
+- 📖 Engajar mais no linkedin []
+
+- 📖 Expandir meu conhecimento com livros e aprendendo com pessoas []
 
 ### ⚡ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
  
+
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,nodejs,mongodb)](https://skillicons.dev)
+
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatassx96&show_icons=true&theme=highcontrast) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatassx96&layout=compact&theme=highcontrast) |
+
+<div style="display: inline_block">
+
+
+
+
 
 <hr>
 
