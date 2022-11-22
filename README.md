@@ -11,7 +11,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
  
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,nodejs,mongodb)](https://skillicons.dev)
 
 <hr>
 
