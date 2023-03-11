@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 27 anos, sou de Brasília e atualmente sou estudante em desenvolvimento web e ciência da computação.
+    Tenho 27 anos, sou de Brasília e atualmente faço pós-graduação em desenvolvimento full stack.
   </em>
 </p>
 
