@@ -20,7 +20,7 @@
 - 🚀 Estudante da Faculdade Descomplica, plataforma Udemy e curso programador Br.
 - 📫 Meu email: jonatas.sx96@gmail.com
 
-### 📊 Metas 2023:
+### 📊 Metas 2024:
 
 - 📂 Expandir meu portfólio []
 
