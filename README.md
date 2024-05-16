@@ -18,7 +18,7 @@
 
 - 🌱 Atualmente estou aprendendo React.js, Node.js e TypeScript.
 - 🚀 Estudante da Faculdade Descomplica, plataforma Udemy e curso programador Br.
-- 📫 Meu email: jonatas.sx96@gmail.com
+- 📫 Meu email: jonatasxavier.dev@gmail.com
 
 ### 📊 Metas 2024:
 
