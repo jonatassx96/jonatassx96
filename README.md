@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo React.js, Node.js e TypeScript.
+- 🌱 Atualmente estou aprendendo React.js, Node.js, TypeScript e SLQ.
 - 🚀 Estudante da Faculdade Descomplica, plataforma Udemy e curso programador Br.
 - 📫 Meu email: jonatasxavier.dev@gmail.com
 
