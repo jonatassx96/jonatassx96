@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 28 anos, sou de Brasília e atualmente faço pós-graduação em desenvolvimento full stack.
+    Tenho 29 anos, sou de Brasília e atualmente faço pós-graduação em desenvolvimento full stack.
   </em>
 </p>
 
