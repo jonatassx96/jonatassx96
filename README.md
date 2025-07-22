@@ -20,7 +20,7 @@
 - 🚀 Estudante da Faculdade Descomplica, plataforma Udemy e curso programador Br.
 - 📫 Meu email: jonatasxavier.dev@gmail.com
 
-### 📊 Metas 2024:
+### 📊 Metas 2025:
 
 - 📂 Expandir meu portfólio []
 
